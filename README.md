@@ -6,10 +6,10 @@
 * Duración: de 18 a 21.
 * Entregable: Si.
 
-# Grupo
+# Grupo 
 
-- Estudiante 1 (Legajo 1) - cor...@estudiante1.com
-- Estudiante 2 (Legajo 2) - cor...@estudiante2.com
+- Emy S (Legajo 1) - emy...@gmail.com
+- Nicolas G (Legajo 2) - jjj...@gmail.com
 
 # Contexto / Escenario
 

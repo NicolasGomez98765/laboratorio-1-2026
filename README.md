@@ -8,7 +8,7 @@
 
 # Grupo 
 
-- Emy S (Legajo 1) - emy...@gmail.com
+- Emily S (Legajo 1) - emy...@gmail.com
 - Nicolas G (Legajo 2) - jjj...@gmail.com
 
 # Contexto / Escenario

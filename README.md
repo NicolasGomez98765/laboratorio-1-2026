@@ -32,7 +32,7 @@ reliquias.
 
 Debes desarrollar la clase `CatalogoArtefactos` que gestionará una colección de objetos de tipo `Artefacto`.
 
-1. Clase `Artefacto`:
+1. Clase `Artefacto`: Hecho :)
    - Atributos: nombre (String), poder (int), tipo (¿String?).
    - Constructor para inicializar todos los atributos.
    - Métodos getters para todos sus atributos.
